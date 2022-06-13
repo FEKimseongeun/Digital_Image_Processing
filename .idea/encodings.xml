@@ -3,5 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/Week05/pr_05.cpp" charset="x-windows-949" />
     <file url="file://$PROJECT_DIR$/Week10/HW05_Gradation.cpp" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/Week11/FaceDetect.cpp" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/Week12/Junction_Endpoint_Detect.cpp" charset="x-windows-949" />
   </component>
 </project>
